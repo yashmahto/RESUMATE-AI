@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+you can check it on https://resumate-ai-weld.vercel.app/ (under development)
 ## Getting Started
 snapshots:
 ![Screenshot 2025-06-11 110031](https://github.com/user-attachments/assets/2c9e6e6e-fbad-4a04-931f-ac51b6ccf167)
