@@ -2,9 +2,14 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 snapshots:
+![Screenshot 2025-06-11 110031](https://github.com/user-attachments/assets/2c9e6e6e-fbad-4a04-931f-ac51b6ccf167)
+![Screenshot 2025-06-11 110053](https://github.com/user-attachments/assets/3b6221d8-c185-44f4-b096-b330285a6bbc)
+![Screenshot 2025-06-11 110118](https://github.com/user-attachments/assets/90b551fd-5cc7-44ba-89b8-a111d110d8eb)
+![Screenshot 2025-06-11 110136](https://github.com/user-attachments/assets/78e46815-13f3-46a3-a85d-d37628c20a6b)
+![Screenshot 2025-06-11 105930](https://github.com/user-attachments/assets/fec4baa0-ee86-4d61-8f05-17a69bc09735)
 
 First, run the development server:
-![Screenshot 2025-06-11 110136](https://github.com/user-attachments/assets/09d598ec-5a9c-4baf-9a2e-790ddab0626c)
+
 
 ```bash
 npm run dev
